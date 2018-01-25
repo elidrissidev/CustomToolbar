@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="cloud1_offset_x">-80dp</dimen>
+    <dimen name="cloud1_offset_y">-80dp</dimen>
+    <dimen name="cloud2_offset_x">-40dp</dimen>
+    <dimen name="cloud2_offset_y">-80dp</dimen>
+    <dimen name="cloud3_offset_x">100dp</dimen>
+    <dimen name="cloud3_offset_y">100dp</dimen>
+    <dimen name="sun_moon_offset_y">80dp</dimen>
+</resources>

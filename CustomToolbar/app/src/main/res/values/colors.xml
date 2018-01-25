@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00B0FF</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#E0E0E0</color>
+    <color name="colorStatusBar">#50000000</color>
+    <color name="colorWindowBackground">#FCFCFC</color>
+
+    <color name="color_gradient_morning_1">#64E0E8</color>
+    <color name="color_gradient_morning_2">#12D8FA</color>
+    <color name="color_gradient_noon_1">#1BC8FC</color>
+    <color name="color_gradient_noon_2">#1EAAEC</color>
+    <color name="color_gradient_evening_1">#7E91EA</color>
+    <color name="color_gradient_evening_2">#A39FB5</color>
+    <color name="color_gradient_night_1">#4B6DA8</color>
+    <color name="color_gradient_night_2">#372E6B</color>
+</resources>
